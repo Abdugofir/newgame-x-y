@@ -12,6 +12,7 @@
 
 body {
   background: #285CA1;
+  overflow: hidden;
 }
 
 .tabel {
@@ -65,4 +66,11 @@ body {
 
 .win {
   background: #55efc4 !important;
+}
+.Rakhmanov{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  position: relative;
+  bottom:auto;
+  left: auto;
 }
